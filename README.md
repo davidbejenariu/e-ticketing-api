@@ -6,6 +6,6 @@
 
 
 ### The API provides all CRUD operations for each entity, as well as custom queries:
-    * get tickets sold for every event
-    * get order total
-    * get customer's orders
+   * get tickets sold for every event
+   * get order total
+   * get customer's orders
