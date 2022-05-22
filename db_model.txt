@@ -1,0 +1,18 @@
+event
+   - concert
+   - festival
+   - sports match
+
+ticket
+   - concert ticket
+   - festival ticket
+   - sports match ticket
+
+venue
+   - indoor venue
+   - outdoor venue
+
+client
+   - child
+   - student
+   - adult
